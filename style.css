@@ -47,8 +47,9 @@ button{
   cursor: pointer;
   transition: background 0.4s ease-in-out;
 }
-button:hover{
+button:hover, button:focus{
   background-color: #131c27 ;
+  outline: solid;
 }
 
 /* Nav Section */
@@ -82,7 +83,7 @@ nav ul {
 
 /* Hero Section */
 .hero{
-  background: linear-gradient(rgba(0, 0, 0, 0.4), transparent), url(./img/landing-page.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.7), transparent), url(./img/landing-page.jpg);
   min-height: 90vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -190,6 +191,7 @@ nav ul {
 .card h4,
 .card p{
   padding: 3rem;
+  line-height: 1.8;
 }
 
 /* Contact */
