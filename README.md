@@ -1,14 +1,11 @@
 <h1 align="center" style="font-weight: bold;">Travelling Agency </h1>
 
 <p align="center">
- <a href="#tech">Technologies</a> • 
-</p>
+    <b>Project Description:</b>
 
-<p align="center">
-    <b>Project Description
 Travelly is a travel agency website where you can start your journey at affordable prices. Through an intuitive contact form, you can send us a message to begin planning your dream trip.
 
-This site was created as part of the course "The Creative HTML5 & CSS3 Course - Build Awesome Websites," with the goal of applying and enhancing new skills and techniques in HTML5 and CSS3./b>
+This site was created as part of the course "The Creative HTML5 & CSS3 Course - Build Awesome Websites," with the goal of applying and enhancing new skills and techniques in HTML5 and CSS3.
 
 </p>
 
@@ -16,7 +13,7 @@ This site was created as part of the course "The Creative HTML5 & CSS3 Course - 
      <a href="https://guithr.github.io/travelly-website/">📱 Visit this Project</a>
 </p>
 
-<h2 id="layout">🎨 Layout</h2>
+<h2 id="layout">Previews</h2>
 
 <p align="center">
     <img src="./img/screenshot_web.png" alt="Image Example Web" width="400px">
